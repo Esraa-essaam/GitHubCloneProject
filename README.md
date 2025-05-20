@@ -1,2 +1,1 @@
-This is the description of my repo
-Modification in main branch.
+## GitHub Practice Project\n\nObjective: Practice Git branching and merging.
